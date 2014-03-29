@@ -1,0 +1,2 @@
+cmdhistory=["(test-fn 0\\n  )" "(test-fn 0)" "(split-bounds-1D [0 1] [0.5])" "(inclusive-range-1D [0 1] 0.5)" "(split-bounds-1D [0 1] 0.5)" "(inclusive-range-1D [0 1] 0.5)" "(trapezium-1D fn-1D [11 18])" "(trapezium-1D fn-1D [3 4])" "(volume-1D fn-1D [0 4] 1)" "(map fn-1D [0 1])" "(map fn-1D [0 1 2 3 4])" " (split-bounds-1D [0 4] 1)" " (split-bounds-1D [0 4] 0.5)" "(combo/cartesian-product [0 1] [0 1])" "(volume-ND \#(reduce + %) [[0 1] [0 1] [0 1]] [0.5 0.5 0.5])  1.5)" "(volume-ND \#(reduce + %) [[0 1] [0 1] [0 1]] [0.5 0.5 0.5])"]
+eclipse.preferences.version=1
